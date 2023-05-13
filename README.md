@@ -4,7 +4,7 @@ NotePad app Created by PyQt6
 ![notepad](https://user-images.githubusercontent.com/125813284/236212795-ada48b48-74a4-4399-82ad-ce7380b735cd.png)
 
 # Download
-Go to Release and download the NotePad.zip
+Go to [Release](https://github.com/CallMeHooDie/Notepad/releases/tag/v1.0.0) and download the NotePad.zip
 
 # Notice
 If you want to copy the codes and have your own Notepad:
